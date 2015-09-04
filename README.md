@@ -23,7 +23,7 @@ Empathy is my strongest skill. I can understand people and help them understand 
 
 ### Communication
 
-I live for good communication. I am a practitioner of Nonviolent Communication and I very dedicated to staying truthful. I have no problems admitting failure. 
+I live for good communication. I am a practitioner of Nonviolent Communication and I am very dedicated to staying truthful. I have no problems admitting failure. 
 
 ### Rationality
 
