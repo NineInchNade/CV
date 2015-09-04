@@ -43,6 +43,7 @@ That is where I learned most of my coding skills.
 I studied one semester of bio-informatics.
 
 ### Robert-Bosch-Gymansium Gerlingen (2006 to 2013)
+That was my high school
 
 ## Personal Interest
 
