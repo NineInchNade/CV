@@ -1,7 +1,7 @@
 ## Lovis Schultze
 
-Coder with compassion. I believe in problem solving and caring for other people, these two things are present in everything I do. 
-
+I am a coder with compassion. I believe in problem solving and caring for other people, these two things are present in everything I do. 
+I am easily excitable and I love to throw myself into projects, especially if it involves learning new material. 
 
 ## Skills
 
@@ -20,17 +20,17 @@ Coder with compassion. I believe in problem solving and caring for other people,
 
 ### Empathy
 
-Empathy is my strongest skill, I can understand people and help them understand me and themselves. I love facilitating a postive environment around myself and I'm good at de-escalating conflicts.
+Empathy is my strongest skill, I can understand people and help them understand me and themselves. I love facilitating a postive environment around myself and I am good at de-escalating conflicts.
 
 ### Communication
 
-I live for good communication, I'm a practitioner of Nonviolent Communication and I am very strict with myself when it comes to honesty. I have no problems admitting failure. 
+I live for good communication, I am a practitioner of Nonviolent Communication and I am very strict with myself when it comes to honesty. I have no problems admitting failure. 
 
 ### Rationality
 
 I always try to make sense of things and put a lot of effort into debiasing myself. I have quite a bit of experience with Cognitive Behavioral Therapy, decision making and choice architecture.
 
-* I decided that it's worth it to do a coding bootcamp rather than Uni.
+* I decided that it is worth it to do a coding bootcamp rather than finish Uni.
 * I did a workshop at the Center for Applied Rationality.
 * I read and worked through 10+ books on behavioral psychology.
 
@@ -55,7 +55,7 @@ I am very passionate about Effective Altruism, a movement that tries to find the
 
 ### Football Referee (May 2011 to October 2013)
 
-I was a football referee through most of my time in high school. {++This taught me a number of valuable skills:++}
+I was a football referee through most of my time in high school. This taught me a number of valuable skills:
 
 * high pressure decision making
 * keeping up confindence in my decisions in the face of angry people who disagree with me
