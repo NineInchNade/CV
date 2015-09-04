@@ -44,7 +44,7 @@ I studied one semester of bio-informatics.
 
 ### Robert-Bosch-Gymansium Gerlingen (2006 to 2013)
 
-## Personal 
+## Personal Interest
 
 ### Effective Altruism
 
