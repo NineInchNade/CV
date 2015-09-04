@@ -1,38 +1,36 @@
 ## Lovis Schultze
 
-I am a coder with compassion. I believe in problem solving and caring for other people, these two things are present in everything I do.
+I am a coder with compassion. I believe in problem solving and caring for other people. These two traits are present in everything I do.
 
-I am easily excitable and I love to throw myself into projects, especially if it involves learning new material. 
+I am energetic to a fault and I love to throw myself into projects, especially when I get to rapidly learn and develop new skills. 
 
 ## Skills
 
 ### Coding 
 
-* General curiosity in breaking and building things
+* General curiosity in breaking things and building things
 * Supercharged learner
+* Desiger of engaging user experiences
 * BDD, TDD, agile
-* How to build complex projects in a structured way
-* Design engaging experiences
 * Ruby, Rails, Sinatra, JavaScript, HTML & CSS
 * Rspec, Jasmine
-* power-napping, meditation
 * Python 3, Django, Selenium
 * Scheme, SICP
 
 ### Empathy
 
-Empathy is my strongest skill, I can understand people and help them understand me and themselves. I love facilitating a postive environment around myself and I am good at de-escalating conflicts.
+Empathy is my strongest skill. I can understand people and help them understand themselves better. I love facilitating a postive environment with my colleagues and I am good at de-escalating conflicts.
 
 ### Communication
 
-I live for good communication, I am a practitioner of Nonviolent Communication and I am very strict with myself when it comes to honesty. I have no problems admitting failure. 
+I live for good communication. I am a practitioner of Nonviolent Communication and I very dedicated to staying truthful. I have no problems admitting failure. 
 
 ### Rationality
 
-I always try to make sense of things and put a lot of effort into debiasing myself. I have quite a bit of experience with Cognitive Behavioral Therapy, decision making and choice architecture.
+I always try to make sense of things and I put a lot of effort into debiasing myself. I have experience with Cognitive Behavioral Therapy, decision making and choice architecture.
 
-* I decided that it is worth it to do a coding bootcamp rather than finish Uni.
-* I did a workshop at the Center for Applied Rationality.
+* I opted to accelerate my career by doing a coding bootcamp before finishing university.
+* I did 12 days of advanced training at the Center for Applied Rationality.
 * I read and worked through 10+ books on behavioral psychology.
 
 
@@ -44,7 +42,9 @@ That is where I learned most of my coding skills.
 ### Eberhar Karls University Tübingen (01.04.2014 to 31.07.2014)
 I studied one semester of bio-informatics.
 
-## Personality
+### Robert-Bosch-Gymansium Gerlingen (2006 to 2013)
+
+## Personal 
 
 ### Effective Altruism
 
@@ -54,13 +54,13 @@ I am very passionate about Effective Altruism, a movement that tries to find the
  * I pledged to donate over 10% of my income to charity.
  * I helped organize the EA Global Oxford conference with over 300 attendees. 
 
-### Football Referee (May 2011 to October 2013)
+### Football 
 
 I was a football referee through most of my time in high school. This taught me a number of valuable skills:
 
-* high pressure decision making
-* keeping up confindence in my decisions in the face of angry people who disagree with me
-* keeping a cool head in uncomfortable situations 
+* High pressure decision making
+* Confidence in my decisions in the face of people who disagree with me
+* Keeping a cool head in uncomfortable situations 
 
 ### Languages
 
