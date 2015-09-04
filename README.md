@@ -1,6 +1,6 @@
 ## Lovis Schultze
 
-I am a coder with compassion. I believe in problem solving and caring for other people, these two things are present in everything I do. 
+I am a coder with compassion. I believe in problem solving and caring for other people, these two things are present in everything I do.
 I am easily excitable and I love to throw myself into projects, especially if it involves learning new material. 
 
 ## Skills
